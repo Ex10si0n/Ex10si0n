@@ -16,13 +16,16 @@ Here are some ideas to get you started:
 -->
 
 
-I am currently pursing my Master's degree at Carnegie Mellon University with strong interest on **cloud computing**, **machine learning**, **algorithms**, **information security**, **full-stack development**, **visual designs**, and **explaining cool stuffs**.
+I am currently pursing my Master's degree at Carnegie Mellon University with strong interest on **cloud computing**, **machine learning**, **algorithms**, **information security**, **full-stack development**, **visual designs**, and **explaining cool stuffs**. I am dedicated to training myself to become a Software Engineer and a Machine Learning Algorithm Engineer.
 
-<img src="https://www.aspires.cc/content/images/2024/05/aspire-mono.png" alt="Aspires" style="width: 5%; height: 5%;">
 
-You are welcomed to my blog at [Aspires](https://www.aspires.cc) for cool posts I wrote.
+<a href="https://aspires.cc"><img src="https://www.aspires.cc/content/images/2024/05/aspire-mono.png" alt="Aspires" style="width: 5%; height: 5%;"></a>
 
-Feel free to visit [Algorithms Series](https://algo.aspires.cc) and [Python and Machine Learning](https://pyml.aspires.cc) for my courses.
+You are welcome to visit my blog at [Aspires](https://www.aspires.cc) for cool posts I have written
+
+Feel free to explore my [Algorithms Series](https://algo.aspires.cc) and [Python and Machine Learning](https://pyml.aspires.cc) courses.
+
+I am seeking internship opportunities for Summer 2025 and full-time opportunities for Winter 2026. If you are interested in connecting with me, please contact me via [LinkedIn](https://www.linkedin.com/in/ex10si0n/) or [E-mail](mailto:me@aspires.cc).
 
 ## Tech-stacks I used
 
