@@ -26,7 +26,7 @@ You are welcome to visit my blog at [Aspires](https://www.aspires.cc) for cool p
 
 Feel free to explore my [Algorithms Series](https://algo.aspires.cc) and [Python and Machine Learning](https://pyml.aspires.cc) courses.
 
-I am seeking internship opportunities for Summer 2025 and full-time opportunities for Winter 2026 at the United States. If you are interested in connecting with me, please contact me via [LinkedIn](https://www.linkedin.com/in/ex10si0n/) or [E-mail](mailto:me@aspires.cc).
+I am seeking internship opportunities for Summer 2025 and full-time opportunities for Spring 2026 at the United States. If you are interested in connecting with me, please contact me via [LinkedIn](https://www.linkedin.com/in/ex10si0n/) or [E-mail](mailto:me@aspires.cc).
 
 ## Tech-stacks I used
 
