@@ -30,4 +30,4 @@ I am seeking internship opportunities for Summer 2025 and full-time opportunitie
 
 ## Tech-stacks I used
 
-![ml](https://skillicons.dev/icons?i=java,py,js,ts,c,scala,swift,html,css,spring,flask,django,fastapi,postman,selenium,mongodb,mysql,firebase,redis,kafka,azure,aws,gcp,cloudflare,wordpress,vim,git,docker,kubernetes,terraform,react,vue,vite,nodejs,electron,tailwind,netlify,vercel,nextjs,nuxtjs,tailwind,pytorch,ps,pr,figma)
+![tech-stacks](https://skillicons.dev/icons?i=java,go,py,js,ts,c,cpp,scala,swift,html,css,spring,flask,django,fastapi,selenium,mongodb,mysql,firebase,redis,kafka,azure,aws,gcp,cloudflare,wordpress,vim,git,docker,kubernetes,terraform,astro,react,vue,vite,nodejs,electron,tailwind,netlify,vercel,nextjs,nuxtjs,tailwind,pytorch,figma)
