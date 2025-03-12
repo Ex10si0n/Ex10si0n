@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-📣 Announcing the latest project I am working on: [**Carto**](https://github.com/Ex10si0n/Carto), a native iOS app for geo-location-based note-taking
-
 I am currently pursing my Master's degree at Carnegie Mellon University with strong interest on **cloud computing**, **machine learning**, **algorithms**, **information security**, **full-stack development**, **distributed system**, **embedded system**, **visual designs**, and **explaining cool stuffs**. I am dedicated to training myself to become a Software Engineer and a Machine Learning Algorithm Engineer.
-
 
 <a href="https://aspires.cc"><img src="https://www.aspires.cc/content/images/2024/05/aspire-mono.png" alt="Aspires" style="width: 5%; height: 5%;"></a>
 
