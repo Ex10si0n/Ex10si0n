@@ -1,5 +1,7 @@
 ## 👋 Hi, I am Ex10si0n
 
+🌐 [Check out my Portfolio](https://ex10si0n.netlify.app)
+
 <!--
 **Ex10si0n/Ex10si0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
